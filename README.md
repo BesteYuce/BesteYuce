@@ -1,24 +1,16 @@
-<h2 align="left">Hi 👋! My name is Beste and I'm a student and a begginer programer from Türkiye</h2>
+### Hi there 👋, My name is Beste
+#### I am a student and a beginner programmer
 
-###
+Skills: PYTHON
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=besteyuce&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=besteyuce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: ycebeste@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BesteYuce)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beste-yüce-ab4178249//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png)  
 
-- 📫 How to reach me **ycebeste@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesteYuce)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/beste-yüce-ab4178249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beste-yüce-ab4178249/" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BesteYuce&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-###
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BesteYuce)  
