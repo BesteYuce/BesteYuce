@@ -1,9 +1,8 @@
 ### Hi there 👋, My name is Beste
-#### I am a student and a beginner programmer
 
 Skills: PYTHON
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I am a student and a beginner programm
 - 📫 How to reach me: ycebeste@gmail.com 
 
 
