@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, My name is Beste<br>I am a student and a beginner programmer<br><br>Skills: Python<br>🌱 I’m currently learning python and data visualization<br>📫 How to reach me: ycebeste@gmail.com
+Hi there 👋, My name is Beste<br>I am a student and a beginner programmer<br><br>🌱 I’m currently learning python and data visualization<br>📫 How to reach me: ycebeste@gmail.com
 
 
 ## 🌐 Socials:
