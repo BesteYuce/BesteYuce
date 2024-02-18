@@ -1,17 +1,18 @@
-### Hi there 👋, My name is Beste
-I am a student and a beginner programmer
-
-Skills: Python
-
-- 🌱 I’m currently learning python and data visualization 
-- 📫 How to reach me: ycebeste@gmail.com 
+# 💫 About Me:
+Hi there 👋, My name is Beste<br>I am a student and a beginner programmer<br><br>Skills: Python<br>🌱 I’m currently learning python and data visualization<br>📫 How to reach me: ycebeste@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BesteYuce)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beste-yüce-ab4178249//)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beste-yüce-ab4178249/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BesteYuce)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BesteYuce&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BesteYuce&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BesteYuce&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BesteYuce&show_icons=true)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BesteYuce&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=BesteYuce)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
