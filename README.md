@@ -2,7 +2,7 @@
 
 Skills: PYTHON
 
-- 🔭 I am a student and a beginner programm
+- 🔭 I am a student and a beginner programmer
 - 📫 How to reach me: ycebeste@gmail.com 
 
 
